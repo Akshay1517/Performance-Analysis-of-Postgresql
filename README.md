@@ -8,3 +8,9 @@ in the folder you need to put data in csv file ,and after run the code that csv 
 inpostgresql you need to create on database and change the name of the database in code.
 
 and also use for a suggesting a indexing of your datatype.
+
+For run this tool you need to install this library 
+
+1). tkMessageBox
+2). psycopg2
+3). xlrd
